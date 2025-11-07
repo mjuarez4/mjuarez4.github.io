@@ -24,8 +24,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "avatar.png"
-  name             : #
-  pronouns         : # example: "she/her"  
+  name             :  "Maddie Juarez"
+  pronouns         : "she/her"  
   bio              : "Senior Undergradaute Computer Science Student"
   location         : "Chicago, IL"
   employer         : "Loyola University Chicago"
@@ -214,13 +214,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
