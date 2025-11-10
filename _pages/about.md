@@ -14,7 +14,7 @@ I am a member of the [BullyBlocker Researach Lab](https://ysilva.cs.luc.edu/Bull
 Some of my research interests include, but not limited to:
 - Social Network Analysis & NLP
 - Embedded Systems, IoT, V2X, Vehicles
-- SMart Cities, Edge Intelligence
+- Smart Cities, Edge Intelligence
 - Adversarial ML
 - AI for Social Good
 - Robotics & Simluation
