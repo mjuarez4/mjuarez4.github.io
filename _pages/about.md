@@ -17,7 +17,7 @@ Some of my research interests include, but not limited to:
 - Smart Cities, Edge Intelligence
 - Adversarial ML
 - AI for Social Good
-- Robotics & Simluation
+- Robotics & Simulation
 
 
 **I am currently applying to PhD Programs in Computer Science in the upcoming 2025-2026 cycle!**
