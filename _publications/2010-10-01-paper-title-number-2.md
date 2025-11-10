@@ -1,14 +1,19 @@
 ---
-title: "Paper Title Number 2"
+title: "Analyzing Adversarial Strategies and Countermeasures for Cyberbullying Detection"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: conferences
+permalink: /publication/2025-10-08-adversarial-cyberbullying-detection
+excerpt: "This study examines the resilience of text-based cyberbullying detection models against word-level and character-level adversarial attacks, comparing traditional ML and LLM-based approaches such as CyberBERT."
+date: 2025-10-08
+venue: "International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS 2025)"
+pages: "86–95"
+publisher: "Springer Nature Switzerland"
+paperurl: "https://doi.org/10.1007/978-3-032-07715-8_9" 
+citation: "Juarez, M., Abdukhamidov, E., Sandoval, M., Nazari, M., Hall, D., Thiruvathukal, G. K., Abuhmed, T., Silva, Y. N., & Abuhamad, M. (2025). <i>Analyzing Adversarial Strategies and Countermeasures for Cyberbullying Detection.</i> In <i>Proceedings of the International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation</i> (pp. 86–95). Springer Nature Switzerland."
 ---
+Cyberbullying on social networking sites has become increasingly prevalent. Most existing detection models lack consideration of adversarial threads, leaving them vulnerable to manipulative perturbations.  
+This paper evaluates the robustness of text-based cyberbullying detection systems against word-level substitutions and character-level attacks, using both classic machine learning techniques and recent large-language-model (LLM) methods.  
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Our findings show that adversarial attacks can drastically degrade detection accuracy—up to 88 % for word-level and 44 % for character-level perturbations. In contrast, LLM-based models such as **CyberBERT** demonstrate greater resistance while maintaining strong detection performance.  
+
+These insights advance understanding of adversarial resilience in social computing and contribute to developing more robust, real-world cyberbullying countermeasures.
