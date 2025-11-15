@@ -7,4 +7,4 @@ excerpt: 'AER for Stronger Communities is a culturally responsive, community-par
 date: 2024-11-20
 venue: 'Families in Society'
 citation: 'Rai, A., Held, M.L., Vidal de Haymes, M., Tarokh, A., Fro, S., Farzam, F., Levya-Cea, E., Sanchez-Gomez, A., Juarez, M., Thiruvathukal, G., & Tallman, P. (accepted). AER for stronger communities: A culturally responsive intervention for newcomers [brief research note] Families in Society.'
-
+---
