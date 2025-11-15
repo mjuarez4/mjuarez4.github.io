@@ -83,8 +83,8 @@ author:
 publication_category:   
   conferences:
     title: 'Conference Papers'
-  Posters:
-    title: 'Posters'
+  presentations:
+    title: 'Presentations'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
