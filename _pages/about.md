@@ -20,6 +20,14 @@ Some of my research interests include, but not limited to:
 - Robotics & Simulation
 
 
-**I am currently applying to PhD Programs in Computer Science in the upcoming 2025-2026 cycle!**
+**I am currently applying to PhD Programs in Computer Science for Fall 2026**
+
+## News
+
+- **October 7, 2025:** Our paper, "Development and Testing of an Intervention for Newly Arriving Communities," has been accepted for an **Oral Presentation** at IVAT 2026.
+- **September 8, 2025:** Our paper, "Centering Voices: Culturally Responsive Support for Central and South Asian Newcomers using AI and Fitness Trackers," has been accepted for an **Poster Presentation** at SSWR 2026.
+- **September 26, 2025:** I was selected for the SBP-BRiMS 2025 Conference participation scholarship.
+- **August 4, 2025:** Our paper, "Analyzing Adversarial Strategies and Countermeasures for Cyberbullying Detection" has been accepted at SBP-BRiMS 2025.
+- **March 12, 2025:** Our paper, "Development of a Culturally Responsive Intervention for Strong Communities" has been accepted at Families in Society 2026.
 
 
