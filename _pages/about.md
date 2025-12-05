@@ -12,7 +12,8 @@ I am a 4th year undergraduate student studying computer science and minoring in 
 I am a member of the [BullyBlocker Researach Lab](https://ysilva.cs.luc.edu/BullyBlocker/) and the [Software Systems Lab](https://ssl.cs.luc.edu/) where I am advised by [Prof. Yasin Silva](https://ysilva.cs.luc.edu/) and [Prof. George Thiruvathukal](https://gkt.sh/). 
 
 Some of my research interests include, but not limited to:
-- Social Network Analysis & NLP
+- Social Network Analysis, Computational Social Science
+- NLP, LLMs
 - Embedded Systems, IoT, V2X, Vehicles
 - Smart Cities, Edge Intelligence
 - Adversarial ML
