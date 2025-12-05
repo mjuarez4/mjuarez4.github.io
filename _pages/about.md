@@ -13,7 +13,7 @@ I am a member of the [BullyBlocker Researach Lab](https://ysilva.cs.luc.edu/Bull
 
 I've interned twice at Argonne National Laboratory: (1) I was a visting researcher in the Leadership Computing Facility (ALCF) studying social networks and adversarial machine learning and (2) I participated in the Science Undergraduate Laboratory Internship (SULI) within the Transportation and Power Systems (TaPS) studying Vehicle-to-Everything (V2X) applications for electric vehicles. 
 
-Some of my research interests include (but are not limited to!)s:
+Some of my research interests include (but are not limited to!):
 - Social Network Analysis, Computational Social Science
 - NLP, LLMs
 - Embedded Systems, IoT, V2X, Vehicles
