@@ -26,7 +26,7 @@ Some of my research interests include (but are not limited to!):
 **I am currently applying to PhD Programs in Computer Science for Fall 2026!**
 
 ## News
-
+- **December 17, 2025:** I received an **Honorable Mention** for the 2025-2026 CRA Outstanding Undergraduate Researcher Award!.
 - **October 7, 2025:** Our paper, "Development and Testing of an Intervention for Newly Arriving Communities," has been accepted for an **Oral Presentation** at IVAT 2026.
 - **September 26, 2025:** I was selected for the SBP-BRiMS 2025 Conference participation scholarship.
 - **September 8, 2025:** Our paper, "Centering Voices: Culturally Responsive Support for Central and South Asian Newcomers using AI and Fitness Trackers," has been accepted for a **Poster Presentation** at SSWR 2026.
