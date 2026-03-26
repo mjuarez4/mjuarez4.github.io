@@ -22,8 +22,6 @@ main:
     url: /files/mj-resume.pdf
     external: true
   
-  - title: "hobbies"
-    url: /hobbies/
     
   # - title: "CV"
   #   url: /cv-json/
