@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**I am an incoming CS PhD Student at the University of Chicago, starting Fall 2026**
 
 I am a senior undergraduate student studying computer science and minoring in statistics at Loyola University Chicago.  
 
@@ -23,7 +24,6 @@ Some of my research interests include (but are not limited to!):
 - Robotics & Simulation
 
 
-**I am an incoming CS PhD Student at the University of Chicago, starting Fall 2026**
 
 ## News
 - **April 13, 2026:** I was awarded the **NSF Graduate Research Fellowship**!
