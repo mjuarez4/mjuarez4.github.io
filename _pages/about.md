@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year undergraduate student studying computer science and minoring in statistics at Loyola University Chicago.  
+I am a senior undergraduate student studying computer science and minoring in statistics at Loyola University Chicago.  
 
 I am a member of the [BullyBlocker Research Lab](https://ysilva.cs.luc.edu/BullyBlocker/) and the [Software Systems Lab](https://ssl.cs.luc.edu/) where I am advised by [Prof. Yasin Silva](https://ysilva.cs.luc.edu/) and [Prof. George Thiruvathukal](https://gkt.sh/). 
 
@@ -23,9 +23,11 @@ Some of my research interests include (but are not limited to!):
 - Robotics & Simulation
 
 
-**I am currently applying to PhD Programs in Computer Science for Fall 2026!**
+**I am an incoming CS PhD Student at the University of Chicago, starting Fall 2026**
 
 ## News
+- **April 13, 2026:** I was awarded the **NSF Graduate Research Fellowship**!
+- **April 9, 2026:** I was awarded an **Outstanding Undergraduate Researcher Award** from Loyola University Chicago!
 - **February 18, 2026:** I accepted a **SULI** position at Argonne National Laboratory for Summer 2026!
 - **December 17, 2025:** I received an **Honorable Mention** for the 2025-2026 CRA Outstanding Undergraduate Researcher Award!
 - **October 7, 2025:** Our paper, "Development and Testing of an Intervention for Newly Arriving Communities," has been accepted for an **Oral Presentation** at IVAT 2026.
