@@ -26,6 +26,7 @@ Some of my research interests include (but are not limited to!):
 
 
 ## News
+- **April 27, 2026:** I was awarded the **DOE Computational Science Graduate Fellowship**!
 - **April 13, 2026:** I was awarded the **NSF Graduate Research Fellowship**!
 - **April 9, 2026:** I was awarded an **Outstanding Undergraduate Researcher Award** from Loyola University Chicago!
 - **February 18, 2026:** I accepted a **SULI** position at Argonne National Laboratory for Summer 2026!
