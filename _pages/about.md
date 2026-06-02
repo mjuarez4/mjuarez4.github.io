@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**I am an incoming CS PhD Student at the University of Chicago, starting Fall 2026**
+**I am an incoming CS PhD Student at the University of Chicago and DOE CSGF Fellow, starting Fall 2026**
 
 I am a senior undergraduate student studying computer science and minoring in statistics at Loyola University Chicago.  
 
@@ -31,7 +31,6 @@ Some of my research interests include (but are not limited to!):
 - **April 27, 2026:** I was awarded the **DOE Computational Science Graduate Fellowship**!
 - **April 13, 2026:** I was awarded the **NSF Graduate Research Fellowship**!
 - **April 9, 2026:** I was awarded an **Outstanding Undergraduate Researcher Award** from Loyola University Chicago!
-- **February 18, 2026:** I accepted a **SULI** position at Argonne National Laboratory for Summer 2026!
 - **December 17, 2025:** I received an **Honorable Mention** for the 2025-2026 CRA Outstanding Undergraduate Researcher Award!
 - **October 7, 2025:** Our paper, "Development and Testing of an Intervention for Newly Arriving Communities," has been accepted for an **Oral Presentation** at IVAT 2026.
 - **September 26, 2025:** I was selected for the SBP-BRiMS 2025 Conference participation scholarship.
