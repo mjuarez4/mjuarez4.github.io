@@ -16,7 +16,7 @@ Some of my research interests include:
 
 I received my BS in Computer Science from Loyola University Chicago. While. there, I was a member of the [BullyBlocker Research Lab](https://ysilva.cs.luc.edu/BullyBlocker/) and the [Software Systems Lab](https://ssl.cs.luc.edu/) where I was advised by [Prof. Yasin Silva](https://ysilva.cs.luc.edu/) and [Prof. George Thiruvathukal](https://gkt.sh/). 
 
-I have a great interests in the U.S. National Laboratories. I've interned three times at Argonne National Laboratory: (1) I was a visting researcher in the Leadership Computing Facility (ALCF) studying social networks and adversarial machine learning and (2) I participated in the Science Undergraduate Laboratory Internship (SULI) within the Transportation and Power Systems (TaPS) studying Vehicle-to-Everything (V2X) applications for electric vehicles (3) SULI Intern at TaPS during Summer 2026.
+I have a great interest in the U.S. National Laboratories. I've interned three times at Argonne National Laboratory: (1) I was a visting researcher in the Leadership Computing Facility (ALCF) studying social networks and adversarial machine learning and (2) I participated in the Science Undergraduate Laboratory Internship (SULI) within the Transportation and Power Systems (TaPS) studying Vehicle-to-Everything (V2X) applications for electric vehicles (3) SULI Intern at TaPS during Summer 2026.
 
 ## News
 - **May 27, 2026:** I started my SULI internship at **Argonne National Laboratory**!
