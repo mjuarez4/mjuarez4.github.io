@@ -6,9 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**I am a CS PhD Student at the University of Chicago and DOE CSGF Fellow**
 
-I am a 1st year Computer Science PhD student at the University of Chicago, where I am a member of [SUPERgroup](https://super.cs.uchicago.edu/) and advised by [Blase Ur](https://www.blaseur.com/).
+I am a 1st year Computer Science PhD student at the University of Chicago, where I am a member of [SUPERgroup](https://super.cs.uchicago.edu/) and advised by [Blase Ur](https://www.blaseur.com/). I am also fortunate to be a recipient of the 2026 Department of Energy Computational Science Graduate Fellowship [(DOE CSGF)](https://www.krellinst.org/csgf/).
 
 Some of my research interests include:
 - Adversarial ML
