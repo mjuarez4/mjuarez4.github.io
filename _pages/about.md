@@ -19,6 +19,7 @@ I received my BS in Computer Science from Loyola University Chicago. While. ther
 I have a great interest in the U.S. National Laboratories. I've interned three times at Argonne National Laboratory: (1) I was a visting researcher in the Leadership Computing Facility (ALCF) studying social networks and adversarial machine learning and (2) I participated in the Science Undergraduate Laboratory Internship (SULI) within the Transportation and Power Systems (TaPS) studying Vehicle-to-Everything (V2X) applications for electric vehicles (3) SULI Intern at TaPS during Summer 2026.
 
 ## News
+- **September 28, 2026** I started my PhD at UChicago!
 - **May 27, 2026:** I started my SULI internship at **Argonne National Laboratory**!
 - **May 8, 2026:** I graduated *Summa Cum Laude* from **Loyola University Chicago**!
 - **April 27, 2026:** I was awarded the **DOE Computational Science Graduate Fellowship**!
